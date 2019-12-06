@@ -1,4 +1,4 @@
-filename = "C:\\Users\\kgoulding\\Desktop\\2019day3.txt"
+filename = "...\\2019day3.txt"
 file = open(filename, 'r')
 strings = []
 for line in file:
