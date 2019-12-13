@@ -1,4 +1,4 @@
-filename = "c:\\Users\Kevin Goulding\\Desktop\\2019day10.txt"  #get rid of the opening
+filename = "...\\2019day10.txt"  #get rid of the opening
 file  = open(filename, 'r')
 astArray = []
 for line in file:
